@@ -1,2 +1,6 @@
 # LED_Knight-Rider
-LEDs blink - iteration
+LEDs blinking - different modes by 
+  - no. of cycle, 
+  - time, 
+  - ascending pin numbers 
+  - descending pin numbers 
